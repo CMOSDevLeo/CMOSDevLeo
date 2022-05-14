@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CMOSDevLeo
+- 👀 I’m interested in computer engineering, electronics, automation and robotics
+- 🌱 I’m currently learning cad
+- 💞️ I’m looking to collaborate on anything interesting
